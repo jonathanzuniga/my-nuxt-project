@@ -4,3 +4,9 @@
     <p><nuxt-link to="/">Home page</nuxt-link></p>
   </div>
 </template>
+
+<style scoped>
+  .container {
+    background: #222;
+  }
+</style>
